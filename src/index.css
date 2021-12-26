@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: #224;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 6em auto;
+}
